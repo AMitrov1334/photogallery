@@ -1,0 +1,353 @@
+header {
+    position: relative;
+    left: 0px;
+    color:#007d7b;
+    text-align: left;
+    font-size: x-large;
+    background-color: #FFFFFF;
+    
+}
+
+main {
+    background-color: #FFFFFF;
+    height: 1815px;
+    overflow: hidden;
+}
+
+body {
+    font-family:Arial;
+    background-color: #000000;
+    text-align: center;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+nav  li {
+    position: relative;
+    display:inline-block;
+    left: 250px;
+    margin-top: 10px;
+}
+
+
+nav a {
+    color:#FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #007d7b;
+
+}
+
+[href="#about"] {
+    position: relative;
+    right: -200px;
+    bottom: 10px; 
+    font-weight: bold;  
+}
+
+[href="#contact"] {
+    position: relative;
+    left: 240px;
+    bottom: 10px;
+    font-weight: bold;
+}
+
+[href="#gallery"] {
+    position: relative;
+    left: 220px;
+    bottom: 10px;
+    font-weight: bold;
+}
+
+[href="#top"] {
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    width: 60px;
+    height: 35px;
+    background-color: #007d7b;
+    font-size: small;
+}
+
+.Introduction h2 {
+    position: relative;
+    right: 25px;
+    bottom: 10px;
+    color:#000000;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Introduction p {
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.Portfolio h2 {
+    color:#000000;
+    position: relative;
+    left: -25px;
+    bottom: 26px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Portfolio p {
+    color:#000000;
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+#Chil {
+    position: relative;
+    right: 35px;
+    bottom: 35px;
+    width: 420px;
+    height: 281px;
+}
+
+#Gua {
+    position: relative;
+    left: 400px;
+    bottom: 332px;
+    width: 420px;
+    height: 281px;
+}
+
+#Haw {
+    position: relative;
+    left: 835px;
+    bottom: 630px;
+    width: 420px;
+    height: 281px;
+}
+
+#Ira {
+    position: relative;
+    right: 37px;
+    bottom: 630px;
+    width: 425px;
+    height: 630px;
+}
+
+#Ire {
+    position: relative;
+    left: 400px;
+    bottom: 1275px;
+    width: 420px;
+    height: 630px;
+}
+
+#Ita {
+    position: relative;
+    left: 835px;
+    bottom: 1920px;
+    width: 420px;
+    height: 630px;
+}
+
+#Moa {
+    position: relative;
+    right: 35px;
+    bottom: 1915px;
+    width: 420px;
+    height: 281px;
+}
+
+#Roc {
+    position: relative;
+    left: 400px;
+    bottom: 2213px;
+    width: 420px;
+    height: 281px;
+}
+
+#Swi {
+    position: relative;
+    left: 835px;
+    bottom: 2510px;
+    width: 420px;
+    height: 281px;
+}
+
+#Uk {
+    position: relative;
+    right: 35px;
+    bottom: 2505px;
+    width: 420px;
+    height: 281px;
+}
+
+#Usa {
+    position: relative;
+    left: 400px;
+    bottom: 2802px;
+    width: 420px;
+    height: 281px;
+}
+
+#Wyo {
+    position: relative;
+    left: 835px;
+    bottom: 3100px;
+    width: 420px;
+    height: 281px;
+}
+
+.Chil {
+    position: relative;
+    justify-content: center;
+    bottom: 35px;
+    color: #FFFFFF;
+}
+
+.Gua {
+    position: relative;
+    justify-content: center;
+    bottom: 270px;
+    color:#FFFFFF;
+}
+
+.Haw {
+    position: relative;
+    justify-content: center;
+    bottom: 30px;
+    color:#FFFFFF;
+}
+
+.Ira {
+    position: relative;
+    justify-content: ;
+    bottom: 600px;
+}
+
+.Ire {
+    position: relative;
+    justify-content: center;
+    bottom: 600px;
+    color:#000000;
+}
+
+.Ita {
+    position: relative;
+    justify-content: center;
+    bottom: 35px;
+    color:#000000;
+}
+
+.Moa {
+    position: relative;
+    justify-content: center;
+    bottom: 35px;
+    color:#FFFFFF;
+}
+
+.Roc {
+    position: relative;
+    justify-content:center;
+    bottom: 265px;
+    color: #000000;
+}
+
+.Swi {
+    position: relative;
+    justify-content: center;
+    bottom: 265px;
+    color:#000000;
+}
+
+.Uk {
+    position: relative;
+    justify-content:center;
+    bottom: 265px;
+    color:black;
+}
+
+.Usa {
+    position: relative;
+    justify-content:center;
+    bottom: 265px;
+    color:#000000;
+}
+
+.Wyo {
+    position: relative;
+    justify-content: center;
+    bottom: 265px;
+    color: #FFFFFF;
+}
+
+#Contact {
+    position: relative;
+    color:#FFFFFF;
+    background-color: #000000;
+    text-align: center;
+}
+
+#Contact h2 {
+    position: relative;
+    bottom: 5x;
+}
+
+.Form {
+    position: relative;
+    bottom: 10px;
+    color:#FFFFFF; 
+    text-align: center;
+}
+
+fieldset {
+    border: none;
+}
+
+label {
+    font-size: 16px;
+    position: relative;
+    bottom: 25px;
+    right: 355px;
+}
+
+label[for="message"] {
+    position:relative;
+    right: 340px;
+}
+
+input {
+    position: relative;
+    bottom: 25px;
+    width: 750px;
+    height: 35px;
+}
+
+input[type="submit"] {
+    position: relative;
+    bottom: 15px;
+    background-color: #007d7b;
+    width: 500px;
+    border-radius: 25px;
+    color:#FFFFFF;
+    font-size: 16px;
+}
+
+::placeholder {
+    color:#007d7b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer {
+    position: relative;
+    bottom: -30px;
+    color:#FFFFFF;
+    font-size: 15px;
+    text-align: center;
+}
